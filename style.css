@@ -5,7 +5,7 @@
 
 
 ._hero {
-    background-color: lightgreen;
+    background-color: #00AD93;
 }
 
 ._portfolio{
@@ -17,8 +17,14 @@
 }
 
 
+._footer {
+    background-color: lightslategray;
+}
 
 
+._copyright {
+    background-color: dark;
+}
 
 ._t-center {
     text-align: center;
