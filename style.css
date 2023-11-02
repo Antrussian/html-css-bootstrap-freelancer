@@ -1,0 +1,35 @@
+._header {
+    background-color: lightslategray;
+}
+
+
+
+._hero {
+    background-color: lightgreen;
+}
+
+._portfolio{
+    background-color: aliceblue;
+}
+
+._card {
+    background-color: white;
+}
+
+
+
+
+
+._t-center {
+    text-align: center;
+}
+
+._img {
+    display: flex;
+    
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+
