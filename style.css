@@ -4,7 +4,7 @@
 
 
 
-._hero {
+._bg-green {
     background-color: #00AD93;
 }
 
@@ -26,9 +26,8 @@
     background-color: dark;
 }
 
-._t-center {
-    text-align: center;
-}
+
+
 
 ._img {
     display: flex;
@@ -38,4 +37,31 @@
 }
 
 
+._boxed {
+    padding: 0px 10% 0px 10%;
+ 
+}
 
+
+._img-hero {
+    width: 50%;
+}
+
+._bar {
+    height: 3px;
+width: 100%;
+    background-color: white;
+    color: white;
+
+}
+
+._icon {
+   font-size: 20px;
+   color: white;
+
+  
+}
+
+._title {
+    font-size: 30px;
+}
