@@ -26,7 +26,10 @@
     background-color: dark;
 }
 
-
+._ul {
+    width: 100%;
+    
+}
 
 
 ._img {
@@ -37,31 +40,28 @@
 }
 
 
-._boxed {
-    padding: 0px 10% 0px 10%;
- 
-}
 
 
 ._img-hero {
-    width: 50%;
+    width: 20%;
 }
+
+
+
 
 ._bar {
+    width: 20%;
     height: 3px;
-width: 100%;
-    background-color: white;
-    color: white;
-
-}
+} 
 
 ._icon {
-   font-size: 20px;
+   font-size: 30px;
    color: white;
 
   
 }
 
 ._title {
-    font-size: 50px;
+    font-size: 3.5rem;
 }
+
