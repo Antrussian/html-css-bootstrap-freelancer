@@ -1,10 +1,13 @@
-._header {
-    background-color: lightslategray;
-}
+
 
 
 ._bg-green {
     background-color: #00AD93;
+}
+
+
+._text-green {
+  color: #00AD93;
 }
 
 ._portfolio{
@@ -17,12 +20,12 @@
 
 
 ._footer {
-    background-color: lightslategray;
+    background-color: #3A546D;
 }
 
 
-._copyright {
-    background-color: dark;
+._dark-blue {
+    background-color: #2C3E50 !important;
 }
 
 ._ul {
@@ -30,7 +33,18 @@
    
 }
 
+._icon-social {
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
 
+   
+
+
+}
 
 
 ._container-card {
@@ -60,7 +74,9 @@ max-width: 80%;
     width: 20%;
 }
 
-
+._copyright {
+    font-size: 10px;
+}
 
 
 ._bar {
